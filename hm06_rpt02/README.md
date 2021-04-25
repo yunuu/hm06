@@ -1,4 +1,4 @@
-ppppppppp<h2>중간고사 과제 My Homepage V2</h2>
+<h2>중간고사 과제 My Homepage V2</h2>
 
 <li>Semantic tag를 사용하여 화면 layout을 구성하였다</li>
 <li>나의 소개글을 만들어 보았다</li>
